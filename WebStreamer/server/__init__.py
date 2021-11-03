@@ -1,5 +1,5 @@
-# © Avishkar Patil [ @AvishkarPatil ] [ Telegram ]
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+# © SL_Jana_Team [ @SL_Jana_Team ] [ Telegram ]
+# Coding : SL_Jana_Team [@SL_Jana_Team]
 
 from aiohttp import web
 from .stream_routes import routes
