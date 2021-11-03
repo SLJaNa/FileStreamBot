@@ -1,3 +1,3 @@
-# This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
-# Maintained By : Avishkar Patil [ @AvishkarPatil ] [ Telegram ]
+# This file is a part of SL_Jana_Team
+# Coding : SL_Jana_Team [@SL_Jana_Team]
+# Maintained By : SL_Jana_Team [ @SL_Jana_Team ] [ Telegram ]
