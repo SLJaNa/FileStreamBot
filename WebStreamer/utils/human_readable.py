@@ -1,5 +1,4 @@
-# (c) @AbirHasan2005
-
+# (c) @SL_Jana_Team
 
 def humanbytes(size):
     # https://stackoverflow.com/a/49361727/4723940
