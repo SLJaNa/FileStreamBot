@@ -27,7 +27,7 @@ HELP_TEXT = """
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/SL_Jana_Team'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : SL_Jana_File to URL Uploader_Bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/SL_Jana_Team'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://t.me/SL_Jana_Team'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸GitHub : <a href='https://t.me/SL_Jana_Team'>Fᴏʟʟᴏᴡ</a></b>\n
