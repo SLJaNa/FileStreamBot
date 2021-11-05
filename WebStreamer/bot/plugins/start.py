@@ -38,28 +38,31 @@ START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/SL_Jana_Team"),
-        InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/joinchat/YiGR_JLyIG84ZmY1"),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
-        ]]
+        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close'),
+               ]] 
+        [InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/SL_Jana_Team")],
+        [InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/joinchat/YiGR_JLyIG84ZmY1")]
+          
    )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton("⚡ Telegram Sup 🗯", url="https://t.me/SL_Jana_Team"),
-        InlineKeyboardButton("🗂️ Report Bugs 🚨", url="https://t.me/SL_Jana_Team"),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
-        ]]
+        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close'),
+                ]]
+        [InlineKeyboardButton("⚡ Telegram Sup 🗯", url="https://t.me/SL_Jana_Team")],
+        [InlineKeyboardButton("🗂️ Report Bugs 🚨", url="https://t.me/SL_Jana_Team")]
+        
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
         InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/SL_Jana_Team"),
-        InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/joinchat/YiGR_JLyIG84ZmY1"),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
-        ]]
+        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close'),
+                 ]]
+        [InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/SL_Jana_Team")],
+        [InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/joinchat/YiGR_JLyIG84ZmY1")]
+
     )
 
 @StreamBot.on_callback_query()
