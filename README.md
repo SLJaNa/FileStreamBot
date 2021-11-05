@@ -38,7 +38,7 @@
 
 ## ♢ How to make your own :
 
-Either you could locally host or deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/SLJaNa/SL_Jana_File-to-URL-Uploader_Bot)
+Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 <br>
 
