@@ -1,5 +1,5 @@
-# This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+# This file is a part of SL_Jana_File to URL Uploader_Bot
+# Coding : 𝙎𝙇_𝙅𝙖𝙣𝙖_𝙏𝙚𝙖𝙢 [@SL_Jana_Team]
 
 from pyrogram import Client
 from ..vars import Var
