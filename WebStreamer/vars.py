@@ -1,4 +1,4 @@
-# (c) @AvishkarPatil | @EverythingSuckz
+# (c) @SL_Jana_Team
 
 from os import getenv, environ
 from dotenv import load_dotenv
